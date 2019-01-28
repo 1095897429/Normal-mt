@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="sdcard" path="."/>
+    <cache-path name="name" path="." />
+    <root-path name="root_path" path="."></root-path>
+
+
+    <external-files-path name="bdpath" path="bddownload/" />
+    <external-path name="bdpathsd" path="bddownload/" />
+</paths>
